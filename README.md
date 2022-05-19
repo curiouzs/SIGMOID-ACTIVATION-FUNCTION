@@ -1,7 +1,7 @@
 # EX.NO: 05
 # DATE : 
 
-# SIGMOID-ACTIVATION-FUNCTION
+# <p text-align="center">SIGMOID-ACTIVATION-FUNCTION</p>
 ## Aim:
   To develop a python code that creates a simple feed-forward neural networks or perception with the Sigmoid activation function. The neuron has to be trained such that it can predict the correct output value when provided with a new set of input data.
   
