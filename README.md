@@ -90,7 +90,6 @@ if __name__=="__main__":
 ```
 
 ## Output:
-
 ![img1 ](https://user-images.githubusercontent.com/75234646/169249576-bfc1534c-7e3e-4db4-9790-7a6fd0d1eae2.png)
 
 
