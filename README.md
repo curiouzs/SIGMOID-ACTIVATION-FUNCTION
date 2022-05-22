@@ -1,5 +1,5 @@
-# EX.NO: 05
-# DATE : 18.04.2022
+### EX.NO: 05
+### DATE : 18.04.2022
 
 # <p align="center">SIGMOID-ACTIVATION-FUNCTION</p>
 ## Aim:
